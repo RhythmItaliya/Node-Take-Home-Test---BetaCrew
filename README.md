@@ -20,7 +20,7 @@ The BetaCrew Mock Exchange Client is a Node.js application that connects to the 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/RhythmItaliya/Node-Take-Home-Test-BetaCrew.git]
+   git clone https://github.com/RhythmItaliya/Node-Take-Home-Test-BetaCrew.git
 
 2. Install dependencies:
    ```bash
